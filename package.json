@@ -1,0 +1,22 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "description": "Cypress API Automation testing using https://gorest.co.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/occamrazzor/Cypress-API-Testing.git"
+  },
+  "keywords": [
+    "api_testing"
+  ],
+  "author": "Occam Razor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/occamrazzor/Cypress-API-Testing/issues"
+  },
+  "homepage": "https://github.com/occamrazzor/Cypress-API-Testing#readme"
+}
