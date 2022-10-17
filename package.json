@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/occamrazzor/Cypress-API-Testing/issues"
   },
-  "homepage": "https://github.com/occamrazzor/Cypress-API-Testing#readme"
+  "homepage": "https://github.com/occamrazzor/Cypress-API-Testing#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
 }
